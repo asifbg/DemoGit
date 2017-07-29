@@ -1,6 +1,3 @@
 eshopworld
-<<<<<<< HEAD
-Added line in Master
-=======
 Feature1
->>>>>>> Feature1
+BG2
